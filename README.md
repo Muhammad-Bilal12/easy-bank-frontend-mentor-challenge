@@ -2,4 +2,4 @@
 
 ## Demo
 
-[https://muhammad-bilal12.github.io/easy-bank-frontend-mentor-challenge/](Click here to Visit website)
+<a href="https://muhammad-bilal12.github.io/easy-bank-frontend-mentor-challenge/">click here to visit website</a>
